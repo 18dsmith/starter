@@ -12,3 +12,7 @@
     margin: 0 auto;
     background-color: bisque;
 }
+
+ol {
+    margin: 5px 0px 5px 25px;
+}
